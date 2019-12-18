@@ -9,6 +9,6 @@ The input file is a CSV table with two columns:
 
 An example is provided, using the file uid_npapers.csv
 
-In this particular example, we have a list of people, each one has an 'uid'. # And 'n_elements' is the number of articles each person has published. We want to split this list into 'N' exclusive subgroups with equal or nearly similar total number of articles per group.
+In this particular example, we have a list of people, each one has an 'uid'. And 'n_elements' is the number of articles each person has published. We want to split this list into 'N' exclusive subgroups with equal or nearly similar total number of articles per group.
 
 The processing is detailed in the file split_equal_sum.pdf
